@@ -1,2 +1,2 @@
 # ember-lib
-library app by ember
+library app by ember ~
