@@ -1,0 +1,22 @@
+<h1>{{headerMessage}}</h1>
+<div class="row mb-5 container">
+<form>
+  <div class="form-group">
+    <label for="exampleInputEmail1">Email address</label>
+    {{input type="email" value=emailAddress class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email"}}
+    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+  </div>
+  <div class="form-group">
+    <label for="exampleInputText">Details</label>
+    {{textarea class="form-control" placeholder="Your message. (At least 5 characters.)" rows="7" value=message}}
+  </div>
+  <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-4 col-md-3">
+    <button disabled={{isDisabled}} class="btn btn-primary btn-lg btn-block" {{action 'saveInvitation'}} >Send Message</button>
+  </div>
+</form>
+</div>
+<div class="row mt-5">
+  {{#if responseMessage}}
+    <div class="alert alert-success"> {{responseMessage}}</div>
+  {{/if}}
+</div>
