@@ -27,13 +27,16 @@ export default Controller.extend({
       const email = this.get('emailAddress');
 
       const newInvitation = this.store.createRecord('invitation', {  email:email });
-      newInvitation.save().then()
-        .catch(e => {
-          console.log(e.errors);
-        });
+      // newInvitation.save().then()
+      //   .catch(e => {
+      //     console.log(e.errors);
+      //   });
 
-      this.set('responseMessage', `Thank you. We've just got your email address: ${this.get('emailAddress')}`);
-      this.set('emailAddress', '');
+      newInvitation.save().then(response => {
+        this.set('responseMessage', `Thank you. We've just got your email address with the follwing ID:  ${response.get('id')}`);
+        this.set('emailAddress', '');
+      });
+
     }
   }
 });

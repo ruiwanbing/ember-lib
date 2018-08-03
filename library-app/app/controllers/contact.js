@@ -25,8 +25,9 @@ export default Controller.extend({
   isDisabled: not('isValid'),
 
   actions: {
-    saveInvitation() {
-      alert(`Saving the email ddress is in progress: ${this.get('emailAddress')}`);
+    saveContact(newContact) {
+      newContact.save().then(()=> console.log('saved'));
+      // alert(`Saving the email ddress is in progress: ${this.get('emailAddress')}`);
       this.set('responseMessage', `Thank you. We've just got your email address: ${this.get('emailAddress')}`);
       this.set('emailAddress', '');
     }

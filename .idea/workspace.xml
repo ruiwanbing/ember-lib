@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e97ca2b6-a25a-4a73-b225-fddbe6e0a701" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/library-app/app/adapters/application.js" beforeDir="false" afterPath="$PROJECT_DIR$/library-app/app/adapters/application.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-app/app/controllers/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/library-app/app/controllers/contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-app/app/controllers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/library-app/app/controllers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-app/app/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/library-app/app/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-app/app/templates/contact.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/library-app/app/templates/contact.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-app/app/templates/navbar.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/library-app/app/templates/navbar.hbs" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library-app/app/templates/contacts/index.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library-app/app/routes/contacts/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library-app/app/templates/contact.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contacts.hbs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/library-app/app/templates/contacts.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="4" column="81" selection-start-line="4" selection-start-column="81" selection-end-line="4" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library-app/app/controllers/contact.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>textMessage</find>
+      <find>headerMesssage</find>
+      <find>email</find>
+      <find>data</find>
+      <find>emailAddress</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/library-app/app/templates/application.hbs" />
+        <option value="$PROJECT_DIR$/library-app/app/styles/app.scss" />
+        <option value="$PROJECT_DIR$/library-app/app/templates/about.hbs" />
+        <option value="$PROJECT_DIR$/library-app/app/templates/index.hbs" />
+        <option value="$PROJECT_DIR$/library-app/config/environment.js" />
+        <option value="$PROJECT_DIR$/library-app/app/adapters/application.js" />
+        <option value="$PROJECT_DIR$/library-app/app/controllers/index.js" />
+        <option value="$PROJECT_DIR$/library-app/app/routes/admin/invitations.js" />
+        <option value="$PROJECT_DIR$/library-app/app/templates/admin/invitations.hbs" />
+        <option value="$PROJECT_DIR$/library-app/app/router.js" />
+        <option value="$PROJECT_DIR$/library-app/app/templates/navbar.hbs" />
+        <option value="$PROJECT_DIR$/library-app/app/templates/libraries.hbs" />
+        <option value="$PROJECT_DIR$/library-app/app/templates/libraries/index.hbs" />
+        <option value="$PROJECT_DIR$/library-app/app/routes/libraries/index.js" />
+        <option value="$PROJECT_DIR$/library-app/app/routes/libraries/new.js" />
+        <option value="$PROJECT_DIR$/library-app/app/templates/libraries/new.hbs" />
+        <option value="$PROJECT_DIR$/library-app/app/templates/contacts/new.hbs" />
+        <option value="$PROJECT_DIR$/library-app/app/templates/contacts/index.hbs" />
+        <option value="$PROJECT_DIR$/library-app/app/routes/contacts/index.js" />
+        <option value="$PROJECT_DIR$/library-app/app/controllers/contact.js" />
+        <option value="$PROJECT_DIR$/library-app/app/templates/contact.hbs" />
+        <option value="$PROJECT_DIR$/library-app/app/templates/contacts.hbs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/library-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/library-app/tmp/webpack_writer-input_base_path-CX51iJ40.tmp/0/node_modules" />
+    <handled-path value="$PROJECT_DIR$/library-app/tmp/webpack_writer-input_base_path-a89LUQzV.tmp/0/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/library-app/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-input_base_path-1P8rhmI6.tmp/0/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-input_base_path-7X6RKnjV.tmp/0/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-input_base_path-BV5yfOjY.tmp/0/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-input_base_path-KayYn1K4.tmp/0/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-input_base_path-LHnk4Gt3.tmp/1/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-input_base_path-VjsAxLJN.tmp/0/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-input_base_path-baK5FaCp.tmp/0/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-input_base_path-ieHYms6m.tmp/4/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-input_base_path-r9756w65.tmp/0/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-input_base_path-scqEWsvd.tmp/1/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-input_base_path-wSKEzniE.tmp/0/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-input_base_path-xvQtP1qx.tmp/4/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-output_path-0SH0hNOZ.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-output_path-DNySss4g.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-output_path-EvJpikiV.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-output_path-SNDmRsFi.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-output_path-WQqinpW5.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-output_path-YDAPBWUE.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-output_path-ZdDkH8b3.tmp/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-output_path-bSLcuGaF.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-output_path-lON13Dat.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-output_path-llfnRMnl.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-output_path-psUgrfKJ.tmp/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/broccoli_merge_trees-output_path-u7tlc1qY.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/funnel-input_base_path-NGviCkg8.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/funnel-input_base_path-PyocufOX.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/funnel-input_base_path-RsGe2vrD.tmp/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/funnel-input_base_path-W0Moq2be.tmp/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/funnel-input_base_path-X8eGP4DQ.tmp/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/funnel-input_base_path-YTn1kqDs.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/funnel-input_base_path-lYhiIumE.tmp/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/funnel-input_base_path-tz9xcZmN.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/funnel-output_path-2rFEy9vj.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/funnel-output_path-LeoIPc4E.tmp/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/funnel-output_path-PZtEklUW.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/funnel-output_path-qbtr5Sjo.tmp/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/sass_compiler-input_base_path-TIw2CEQK.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/sass_compiler-input_base_path-qIlhCfQM.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/simple_concat_concat-input_base_path-Jv6pflRB.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/simple_concat_concat-input_base_path-bXaqz937.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/simple_concat_concat-input_base_path-p3ZkEsE4.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/simple_concat_concat-input_base_path-vg8MUQgl.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/source_map_concat-input_base_path-7mHb2PLu.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/source_map_concat-input_base_path-APXcdWM6.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/source_map_concat-input_base_path-K7IXSjZt.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/source_map_concat-input_base_path-RYaLEJu1.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/source_map_concat-input_base_path-UdOV20eX.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/source_map_concat-input_base_path-rBz97ZyN.tmp/vendor/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/webpack_writer-input_base_path-CX51iJ40.tmp/0/package.json" />
+      <path value="$PROJECT_DIR$/library-app/tmp/webpack_writer-input_base_path-a89LUQzV.tmp/0/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="22" />
+    <option name="y" value="10" />
+    <option name="width" value="618" />
+    <option name="height" value="470" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ember-lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember-lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ember-lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember-lib" type="462c0819:PsiDirectoryNode" />
+              <item name="library-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ember-lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember-lib" type="462c0819:PsiDirectoryNode" />
+              <item name="library-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ember-lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember-lib" type="462c0819:PsiDirectoryNode" />
+              <item name="library-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="adapters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ember-lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember-lib" type="462c0819:PsiDirectoryNode" />
+              <item name="library-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ember-lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember-lib" type="462c0819:PsiDirectoryNode" />
+              <item name="library-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ember-lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember-lib" type="462c0819:PsiDirectoryNode" />
+              <item name="library-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ember-lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember-lib" type="462c0819:PsiDirectoryNode" />
+              <item name="library-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ember-lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember-lib" type="462c0819:PsiDirectoryNode" />
+              <item name="library-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="contacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ember-lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember-lib" type="462c0819:PsiDirectoryNode" />
+              <item name="library-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="libraries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ember-lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember-lib" type="462c0819:PsiDirectoryNode" />
+              <item name="library-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ember-lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember-lib" type="462c0819:PsiDirectoryNode" />
+              <item name="library-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ember-lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember-lib" type="462c0819:PsiDirectoryNode" />
+              <item name="library-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ember-lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember-lib" type="462c0819:PsiDirectoryNode" />
+              <item name="library-app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="contacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ember-lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ember-lib" type="462c0819:PsiDirectoryNode" />
+              <item name="library-app" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../projects/nv-status-ui" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/library-app/app/routes/libraries" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e97ca2b6-a25a-4a73-b225-fddbe6e0a701" name="Default" comment="" />
+      <created>1533165898135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533165898135</updated>
+      <workItem from="1533165900168" duration="28207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28207000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1070" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986508" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/library-app/app/templates/application.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/app/templates/about.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/app/styles/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/app/templates/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/app/models/invitation.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/.watchmanconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="42" column="14" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/app/adapters/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/config/environment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/app/controllers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/app/routes/admin/invitations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/app/templates/admin/invitations.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/app/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/app/templates/navbar.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/app/templates/libraries.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/app/routes/libraries/new.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/app/models/contact.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/app/models/library.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/app/templates/libraries/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/app/templates/contacts/new.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/app/templates/libraries/new.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="23" column="62" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/app/routes/libraries/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/app/routes/contacts/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/app/templates/contacts/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/app/controllers/contact.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/app/templates/contact.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library-app/app/templates/contacts.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="81" selection-start-line="4" selection-start-column="81" selection-end-line="4" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
