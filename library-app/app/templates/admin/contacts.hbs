@@ -1,0 +1,24 @@
+<!-- app/templates/admin/contacts.hbs -->
+
+<h1>Contacts</h1>
+
+<table class="table table-bordered table-striped">
+  <thead>
+  <tr>
+    <th>ID</th>
+    <th>E-mail</th>
+    <th>Actions</th>
+  </tr>
+  </thead>
+  <tbody>
+  {{#each model as |contact|}}
+    <tr>
+      <th>{{contact.id}}</th>
+      <td>{{contact.emailAddress}}</td>
+      <td>
+        <button class="btn btn-danger btn-xs" {{action 'deleteContact' contact}}>Delete</button>
+      </td>
+    </tr>
+  {{/each}}
+  </tbody>
+</table>
